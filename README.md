@@ -1,19 +1,19 @@
-# Cross-Platform Trend Scout â€” Your AI Eyes Across Every Social Platform
+# Cross-Platform Trend Scout  -  Your AI Eyes Across Every Social Platform
 
 An AI skill for [Sai](https://simular.ai/sai) that researches any idea, topic, or trend across 6 major platforms simultaneously. Find what's already viral, how top creators execute, what audiences love or hate, and what gaps exist for you to exploit.
 
-> **Most AI agents are basically blind.** They can't see YouTube, can't browse TikTok, can't scroll Reddit. Sai is different â€” it operates inside a real browser with your real sessions. Log in once, and Sai sees everything you can. No API keys, no OAuth pain, no 403s.
+> **Most AI agents are basically blind.** They can't see YouTube, can't browse TikTok, can't scroll Reddit. Sai is different  -  it operates inside a real browser with your real sessions. Log in once, and Sai sees everything you can. No API keys, no OAuth pain, no 403s.
 
 ## What It Does
 
-Tell Sai a topic â€” a content idea, product concept, or market trend â€” and it goes to **X, Threads, LinkedIn, TikTok, YouTube, and Reddit** to find:
+Tell Sai a topic  -  a content idea, product concept, or market trend  -  and it goes to **X, Threads, LinkedIn, TikTok, YouTube, and Reddit** to find:
 
-- ðŸ”¥ **Viral content** â€” What's blowing up right now?
-- ðŸ“Š **Engagement patterns** â€” What formats, hooks, and angles work best?
-- ðŸ‘¥ **Top creators** â€” Who's dominating this space?
-- ðŸ’¬ **Audience sentiment** â€” What do people love? What do they hate?
-- ðŸ—ºï¸ **Competitive landscape** â€” Who are the existing players?
-- ðŸ’¡ **Content gaps** â€” What's NOT being said that should be?
+- 🔥 **Viral content**  -  What's blowing up right now?
+- 📊 **Engagement patterns**  -  What formats, hooks, and angles work best?
+- 👥 **Top creators**  -  Who's dominating this space?
+- 💬 **Audience sentiment**  -  What do people love? What do they hate?
+- 🗺️ **Competitive landscape**  -  Who are the existing players?
+- 💡 **Content gaps**  -  What's NOT being said that should be?
 
 Then it compiles everything into a structured **Trend Report** with a heat map, cross-platform comparison, and actionable recommendations.
 
@@ -22,7 +22,7 @@ Then it compiles everything into a structured **Trend Report** with a heat map, 
 ```
 "Research if AI slides tools have traction on social media"
 "What's going viral about remote work tools right now?"
-"I want to launch a productivity app â€” what are people saying about this space?"
+"I want to launch a productivity app  -  what are people saying about this space?"
 "Compare how 'AI coding assistants' performs on TikTok vs YouTube vs Reddit"
 "Find top-performing posts about meal prep AI across all platforms"
 ```
@@ -31,17 +31,17 @@ Then it compiles everything into a structured **Trend Report** with a heat map, 
 
 | Platform | Volume | Engagement | Sentiment | Score |
 |----------|--------|------------|-----------|-------|
-| YouTube  | ðŸ”¥ Very High | ðŸ”¥ Very High | ðŸ‘ Positive | 9/10 |
-| Reddit   | ðŸ”¥ High | ðŸ”¥ High | ðŸ¤” Mixed | 8/10 |
-| X/Twitter | ðŸ“ˆ Medium | ðŸ“ˆ Medium | ðŸ‘ Positive | 7/10 |
-| TikTok   | ðŸ”¥ High | ðŸ”¥ High | ðŸ‘ Positive | 8/10 |
-| LinkedIn | ðŸ“‰ Low | ðŸ“ˆ Medium | ðŸ‘ Positive | 5/10 |
-| Threads  | ðŸ“‰ Low | ðŸ“‰ Low | ðŸ‘ Positive | 3/10 |
+| YouTube  | 🔥 Very High | 🔥 Very High | 👍 Positive | 9/10 |
+| Reddit   | 🔥 High | 🔥 High | 🤔 Mixed | 8/10 |
+| X/Twitter | 📈 Medium | 📈 Medium | 👍 Positive | 7/10 |
+| TikTok   | 🔥 High | 🔥 High | 👍 Positive | 8/10 |
+| LinkedIn | 📉 Low | 📈 Medium | 👍 Positive | 5/10 |
+| Threads  | 📉 Low | 📉 Low | 👍 Positive | 3/10 |
 
 ## How It Works
 
 ### 1. You provide a topic
-A keyword, phrase, or question â€” as simple as "AI presentation tools" or as specific as "best CRM for solopreneurs 2026."
+A keyword, phrase, or question  -  as simple as "AI presentation tools" or as specific as "best CRM for solopreneurs 2026."
 
 ### 2. Sai searches all 6 platforms
 Each platform gets a tailored search strategy:
@@ -57,29 +57,29 @@ Each platform gets a tailored search strategy:
 
 ### 3. Cross-platform synthesis
 Sai compiles findings into:
-- **Trend Heat Map** â€” Volume, engagement, and sentiment across all platforms
-- **Top Viral Posts** â€” Best-performing content with analysis of why it worked
-- **Audience Breakdown** â€” Who's talking, what they want, what language they use
-- **Competitive Landscape** â€” Existing players mapped by tier
-- **Content Gaps & Opportunities** â€” What's NOT being covered
-- **Actionable Recommendations** â€” Should you pursue this? Where? How?
+- **Trend Heat Map**  -  Volume, engagement, and sentiment across all platforms
+- **Top Viral Posts**  -  Best-performing content with analysis of why it worked
+- **Audience Breakdown**  -  Who's talking, what they want, what language they use
+- **Competitive Landscape**  -  Existing players mapped by tier
+- **Content Gaps & Opportunities**  -  What's NOT being covered
+- **Actionable Recommendations**  -  Should you pursue this? Where? How?
 
 ### 4. Export options
-- ðŸ“ **In-chat report** â€” Structured markdown with tables and insights
-- ðŸ“Š **Google Sheet** â€” Platform-by-platform data with overview dashboard
-- ðŸ“„ **Google Doc** â€” Full research report for sharing
+- 📝 **In-chat report**  -  Structured markdown with tables and insights
+- 📊 **Google Sheet**  -  Platform-by-platform data with overview dashboard
+- 📄 **Google Doc**  -  Full research report for sharing
 
 ## Safety & Anti-Ban Measures
 
 This skill is designed to protect your accounts:
 
-- âœ… **Random delays** between every action (3-8 seconds)
-- âœ… **Platform-specific rate limits** (e.g., max 3 searches on LinkedIn per session)
-- âœ… **Read-only operation** â€” never likes, comments, follows, or interacts
-- âœ… **Human-like scrolling** â€” 2-4 scrolls per page with natural pauses
-- âœ… **Varied search queries** â€” rephrases across platforms to avoid detection
-- âœ… **CAPTCHA detection** â€” stops immediately and reports if any warning appears
-- âœ… **Session time cap** â€” stays under 45 minutes total
+- ✅ **Random delays** between every action (3-8 seconds)
+- ✅ **Platform-specific rate limits** (e.g., max 3 searches on LinkedIn per session)
+- ✅ **Read-only operation**  -  never likes, comments, follows, or interacts
+- ✅ **Human-like scrolling**  -  2-4 scrolls per page with natural pauses
+- ✅ **Varied search queries**  -  rephrases across platforms to avoid detection
+- ✅ **CAPTCHA detection**  -  stops immediately and reports if any warning appears
+- ✅ **Session time cap**  -  stays under 45 minutes total
 
 ## Platform-Specific Rate Limits
 
@@ -87,8 +87,8 @@ This skill is designed to protect your accounts:
 |----------|-------------|-------------------|-------|
 | X/Twitter | 40 | 30 | Most lenient |
 | YouTube | Unlimited | Unlimited | Google is generous |
-| Reddit | 50 page loads | â€” | Don't hammer |
-| LinkedIn | 20 | 15 | âš ï¸ Most aggressive detection |
+| Reddit | 50 page loads |  -  | Don't hammer |
+| LinkedIn | 20 | 15 | ⚠️ Most aggressive detection |
 | TikTok | 30 | 25 | Moderate |
 | Threads | 25 | 20 | Moderate |
 
@@ -136,7 +136,7 @@ Sai can schedule recurring trend reports via its workflow engine.
 
 ## Requirements
 
-- [Access Sai â€” Your Agentic AI Coworker](https://simular.ai/sai)
+- [Access Sai  -  Your Agentic AI Coworker](https://simular.ai/sai)
 - Log into target platforms in your Sai VM (one-time setup)
 - Google account connected (optional, for Sheet/Doc export)
 
@@ -144,13 +144,13 @@ Sai can schedule recurring trend reports via its workflow engine.
 
 | | ChatGPT / Other AI | Sai |
 |---|---|---|
-| **Platform access** | âŒ Can't browse social media | âœ… Sees everything you can |
-| **Real-time data** | âŒ Knowledge cutoff | âœ… Live search results |
-| **Engagement metrics** | âŒ No access | âœ… Reads likes, views, comments |
-| **Multi-platform** | âŒ One at a time, manually | âœ… 6 platforms, one command |
-| **Export** | âŒ Copy-paste | âœ… Google Sheets/Docs |
-| **Recurring** | âŒ Manual every time | âœ… Automated weekly workflows |
+| **Platform access** | ❌ Can't browse social media | ✅ Sees everything you can |
+| **Real-time data** | ❌ Knowledge cutoff | ✅ Live search results |
+| **Engagement metrics** | ❌ No access | ✅ Reads likes, views, comments |
+| **Multi-platform** | ❌ One at a time, manually | ✅ 6 platforms, one command |
+| **Export** | ❌ Copy-paste | ✅ Google Sheets/Docs |
+| **Recurring** | ❌ Manual every time | ✅ Automated weekly workflows |
 
 ---
 
-*Built for [Sai](https://simular.ai/sai) by Simular â€” the Autonomous Computer Company.*
+*Built for [Sai](https://simular.ai/sai) by Simular  -  the Autonomous Computer Company.*
